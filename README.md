@@ -1,2 +1,3 @@
 # webScraper
-Simple app for web scraping with css selectors
+Simple app for web scraping using Nightmare library with css selectors.
+NodeJs
